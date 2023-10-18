@@ -5,13 +5,13 @@
 .recipe-list {
     list-style-type: none;
     padding: 0;
+    font-family: cursive;
 }
 
 .main-h1 {
     background-color: black;
     color: white;
 }
-
 
 a {
     font-size: 2rem;
